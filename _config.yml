@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: EZ Peasy eXchange
+title: Easy-peasy 📱📲 eXchange
 description: Securely exchange data between untethered devices
+plugins:
+  - jemoji
